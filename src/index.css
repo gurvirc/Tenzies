@@ -59,11 +59,15 @@ main {
 .roll-dice-container {
   background-color: #5035FF;
   border-radius: 5px;
+  white-space: nowrap;
+  width: auto;
+  padding: 6px 21px;
   border-style: none;
   font-size: large;
   color: white;
-  width: 100px;
+  
   height:55px
+
   
 }
 
